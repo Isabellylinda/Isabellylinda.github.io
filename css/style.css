@@ -1,0 +1,43 @@
+p {
+    background-color: rgb(213, 252, 247);
+}
+li {
+    background-color: rgb(213, 252, 247);
+}
+p {
+    font-style: italic;
+}
+li {
+    font-style: italic;
+}
+body{
+    background-color: rgb(211, 247, 247);
+}
+h1 {
+    text-align: center;
+    margin: 20px;
+}
+p {
+    font-size: 20px;
+}
+ul {
+    font-size: 20px;
+    border-width: 2px;
+    border-color: black;
+    border-style: dashed;
+    border-radius: 25px;
+    padding: 10px;
+
+}
+img{
+    width: 30%;
+}
+li{
+    margin: 10px 20px;
+}
+
+
+a {
+    right: 0;
+    position: absolute;
+}
