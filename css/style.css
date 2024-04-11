@@ -81,3 +81,12 @@ div::before {
     padding: 8px 15px;
     border-radius: 20px;
  }
+ footer {
+    background-color: #333;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
