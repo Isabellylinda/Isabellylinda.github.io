@@ -78,7 +78,7 @@ div::before {
     color: rgb(110, 223, 233);
     text-align: center;
     padding: 20px 0;
-    position: fixed;
+    position: relative;
     height: 9%;
     bottom: 0;
     width: 100%;
